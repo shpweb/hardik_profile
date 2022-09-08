@@ -4,7 +4,7 @@
 
 💻 **About Me**
 - Cloud Infrastrucuture Consultant
-- Cloud Migration 
+- Cloud Migration Specialist
 - IaC / DevOps Practitioner 
 - Data Science Enthusiastic 😬
 
